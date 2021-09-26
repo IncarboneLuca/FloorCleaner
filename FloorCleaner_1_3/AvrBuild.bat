@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Programmi\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "G:\ARKluca\Poli\AVR\FloorCleaner_1_3\labels.tmp" -fI -W+ie -o "G:\ARKluca\Poli\AVR\FloorCleaner_1_3\FloorCleaner_1_3.hex" -d "G:\ARKluca\Poli\AVR\FloorCleaner_1_3\FloorCleaner_1_3.obj" -e "G:\ARKluca\Poli\AVR\FloorCleaner_1_3\FloorCleaner_1_3.eep" -m "G:\ARKluca\Poli\AVR\FloorCleaner_1_3\FloorCleaner_1_3.map" "G:\ARKluca\Poli\AVR\FloorCleaner_1_3\FloorCleaner_1_3.asm"
